@@ -15,21 +15,6 @@
       "static/css/bbebfd9af13e2fe5.css",
       "static/chunks/app/layout-9955aca767b78c9b.js"
     ],
-    "/contact/page": [
-      "static/chunks/webpack-b27521c91ec369ad.js",
-      "static/chunks/cdea6b85-bfbb8b92f19ea77b.js",
-      "static/chunks/871-a1360c914baedec6.js",
-      "static/chunks/main-app-cbd4ace0455ba856.js",
-      "static/chunks/app/contact/page-885d24aaf80eb8d6.js"
-    ],
-    "/contact/thanks/page": [
-      "static/chunks/webpack-b27521c91ec369ad.js",
-      "static/chunks/cdea6b85-bfbb8b92f19ea77b.js",
-      "static/chunks/871-a1360c914baedec6.js",
-      "static/chunks/main-app-cbd4ace0455ba856.js",
-      "static/chunks/244-26011603f80a98af.js",
-      "static/chunks/app/contact/thanks/page-704695bc39c6fe16.js"
-    ],
     "/portfolio/page": [
       "static/chunks/webpack-b27521c91ec369ad.js",
       "static/chunks/cdea6b85-bfbb8b92f19ea77b.js",
@@ -37,6 +22,13 @@
       "static/chunks/main-app-cbd4ace0455ba856.js",
       "static/chunks/925-fc4611e590b8c969.js",
       "static/chunks/app/portfolio/page-157789ac1225235e.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-b27521c91ec369ad.js",
+      "static/chunks/cdea6b85-bfbb8b92f19ea77b.js",
+      "static/chunks/871-a1360c914baedec6.js",
+      "static/chunks/main-app-cbd4ace0455ba856.js",
+      "static/chunks/app/contact/page-885d24aaf80eb8d6.js"
     ],
     "/(without-layout)/layout": [
       "static/chunks/webpack-b27521c91ec369ad.js",
@@ -56,6 +48,14 @@
       "static/chunks/2ef6b231-8f1576ce718a56b3.js",
       "static/chunks/352-04dbef1990aca24b.js",
       "static/chunks/app/(without-layout)/three/page-b83dbd6de548067a.js"
+    ],
+    "/contact/thanks/page": [
+      "static/chunks/webpack-b27521c91ec369ad.js",
+      "static/chunks/cdea6b85-bfbb8b92f19ea77b.js",
+      "static/chunks/871-a1360c914baedec6.js",
+      "static/chunks/main-app-cbd4ace0455ba856.js",
+      "static/chunks/244-26011603f80a98af.js",
+      "static/chunks/app/contact/thanks/page-704695bc39c6fe16.js"
     ],
     "/(with-layout)/layout": [
       "static/chunks/webpack-b27521c91ec369ad.js",
