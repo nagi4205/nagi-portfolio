@@ -6,7 +6,11 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"lint": "next lint"
+		"lint": "next lint",
+    "build:worker": "cloudflare",
+    "dev:worker": "wrangler dev --port 8771",
+    "preview:worker": "pnpm run build:worker && pnpm run dev:worker",
+    "deploy:worker": "pnpm run build:worker && wrangler deploy"
 	},
 	"dependencies": {
 		"@react-three/drei": "10.0.0-rc.1",
@@ -27,6 +31,7 @@
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
 		"@eslint/eslintrc": "^3",
+		"@opennextjs/cloudflare": "^0.4.7",
 		"@types/node": "^20",
 		"@types/react": "^19",
 		"@types/react-dom": "^19",
