@@ -1,5 +1,3 @@
-export const runtime = "edge";
-
 import ContactForm from "./ContactForm";
 // import { submitForm } from './actions'
 
